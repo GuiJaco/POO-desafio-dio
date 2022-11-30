@@ -5,5 +5,7 @@ Desafio proposto para colocar em pratica todo conteudo aprendido no módulo de P
 Nessa aplicação você pode rodar o arquivo do Usuario e então pode realizar as seguintes funções:
 
 Repodutor Musicial: tocar, pausar, selecionarMusica
+
 Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
+
 Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
